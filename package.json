@@ -1,0 +1,22 @@
+{
+  "name": "serverless-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucio617/serverless-form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucio617/serverless-form/issues"
+  },
+  "homepage": "https://github.com/lucio617/serverless-form#readme",
+  "description": "",
+  "dependencies": {
+    "nodemailer": "^6.10.1"
+  }
+}
